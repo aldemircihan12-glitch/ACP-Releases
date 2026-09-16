@@ -14,6 +14,22 @@
                                            "OTA Update System",
                                            "Update Publisher"
                                        ]
+                     },
+                     {
+                         "versionCode":  16,
+                         "versionName":  "0.9.5",
+                         "channel":  "beta",
+                         "apkUrl":  "https://github.com/aldemircihan12-glitch/ACP-Releases/releases/download/v0.9.5/ACP-0.9.5.apk",
+                         "sha256":  "ca2d4b507a9d5be28ebf74aea3002862d0e056795229ac6e0390a204cf93ea20",
+                         "sizeBytes":  16809983,
+                         "mandatory":  false,
+                         "changelog":  [
+                                           "Voice Control V1",
+                                           "Wake Word Eyva",
+                                           "Spotify Voice Search",
+                                           "Track und Lautstärke per Sprache",
+                                           "Spotify App Remote Auth Fix"
+                                       ]
                      }
                  ]
 }
