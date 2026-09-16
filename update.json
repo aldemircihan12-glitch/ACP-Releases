@@ -1,17 +1,19 @@
 {
     "schema":  1,
-    "releases":  {
-                     "versionCode":  15,
-                     "versionName":  "0.9.4",
-                     "channel":  "beta",
-                     "apkUrl":  "https://github.com/aldemircihan12-glitch/ACP-Releases/releases/download/v0.9.4/ACP-0.9.4.apk",
-                     "sha256":  "299bd1ee8a4ded80709f66a763a219b4095345231f410020f7595c6ce8695504",
-                     "sizeBytes":  16775040,
-                     "mandatory":  false,
-                     "changelog":  [
-                                       "Spotify App Remote SDK",
-                                       "OTA Update System",
-                                       "Update Publisher"
-                                   ]
-                 }
+    "releases":  [
+                     {
+                         "versionCode":  15,
+                         "versionName":  "0.9.4",
+                         "channel":  "beta",
+                         "apkUrl":  "https://github.com/aldemircihan12-glitch/ACP-Releases/releases/download/v0.9.4/ACP-0.9.4.apk",
+                         "sha256":  "299bd1ee8a4ded80709f66a763a219b4095345231f410020f7595c6ce8695504",
+                         "sizeBytes":  16775040,
+                         "mandatory":  false,
+                         "changelog":  [
+                                           "Spotify App Remote SDK",
+                                           "OTA Update System",
+                                           "Update Publisher"
+                                       ]
+                     }
+                 ]
 }
