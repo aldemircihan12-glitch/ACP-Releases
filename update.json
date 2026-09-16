@@ -30,6 +30,20 @@
                                            "Track und Lautstärke per Sprache",
                                            "Spotify App Remote Auth Fix"
                                        ]
+                     },
+                     {
+                         "versionCode":  17,
+                         "versionName":  "0.9.6",
+                         "channel":  "beta",
+                         "apkUrl":  "https://github.com/aldemircihan12-glitch/ACP-Releases/releases/download/v0.9.6/ACP-0.9.6.apk",
+                         "sha256":  "d0b2dedc1f064795dc7e36ea97c903bdcc9fdef3a68ddf8d268c024f49630c18",
+                         "sizeBytes":  16808395,
+                         "mandatory":  false,
+                         "changelog":  [
+                                           "Spotify Large-Target UI",
+                                           "Große Player Controls",
+                                           "Neue Playlist und Suche UI"
+                                       ]
                      }
                  ]
 }
