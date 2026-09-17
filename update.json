@@ -44,6 +44,22 @@
                                            "Große Player Controls",
                                            "Neue Playlist und Suche UI"
                                        ]
+                     },
+                     {
+                         "versionCode":  18,
+                         "versionName":  "0.9.7",
+                         "channel":  "beta",
+                         "apkUrl":  "https://github.com/aldemircihan12-glitch/ACP-Releases/releases/download/v0.9.7/ACP-0.9.7.apk",
+                         "sha256":  "93ee6c48041333b699aaf7ff02ca42c6eba4265b975830c8ccab3f28421e9a29",
+                         "sizeBytes":  16826296,
+                         "mandatory":  false,
+                         "changelog":  [
+                                           "Spotify Core Rewrite",
+                                           "App Remote PlayerState",
+                                           "Player Controls immer sichtbar",
+                                           "Spotify Performance Fixes",
+                                           "Fortsetzen ohne Playlist-Zwang"
+                                       ]
                      }
                  ]
 }
