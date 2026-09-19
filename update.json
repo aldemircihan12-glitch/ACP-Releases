@@ -60,6 +60,23 @@
                                            "Spotify Performance Fixes",
                                            "Fortsetzen ohne Playlist-Zwang"
                                        ]
+                     },
+                     {
+                         "versionCode":  25,
+                         "versionName":  "0.9.14",
+                         "channel":  "beta",
+                         "apkUrl":  "https://github.com/aldemircihan12-glitch/ACP-Releases/releases/download/v0.9.14/ACP-0.9.14.apk",
+                         "sha256":  "68f2506df34736feb0c2e14282b84f8d87d9c1c39a879e3c88ae34ebffe79e63",
+                         "sizeBytes":  106193194,
+                         "mandatory":  false,
+                         "changelog":  [
+                                           "Voice Stability Fix",
+                                           "Keine Partial Wake Triggers",
+                                           "AVA Exact Wakeword",
+                                           "Wake Cooldown",
+                                           "Kein Timeout Piepen",
+                                           "Wake Debug"
+                                       ]
                      }
                  ]
 }
